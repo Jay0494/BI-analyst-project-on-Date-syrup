@@ -36,6 +36,7 @@ Developed a two-page Power BI reporting solution consisting of:
 
 ### Dashboard 1 — Executive Performance Overview
 
+<img width="1243" height="794" alt="image" src="https://github.com/user-attachments/assets/f1023472-a52c-456f-98b3-f3d5c9fa31ec" />
 Designed for leadership and senior stakeholders to monitor:
 
 * Revenue
@@ -49,6 +50,7 @@ Designed for leadership and senior stakeholders to monitor:
 * Customer Segment Performance
 
 ### Dashboard 2 — Revenue Driver Analysis
+<img width="973" height="788" alt="image" src="https://github.com/user-attachments/assets/d074abad-646b-438a-9429-cdea949e426b" />
 
 Designed to identify the underlying drivers of revenue performance through:
 
