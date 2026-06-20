@@ -99,6 +99,8 @@ The final solution utilised a **Star Schema with multiple fact tables and shared
 
 ## Data Model & Technical Architecture
 
+<img width="1279" height="738" alt="data model" src="https://github.com/user-attachments/assets/5b81a2f3-d498-43fb-8fd8-2569ef246297" />
+
 The solution was built using a **Star Schema data model with multiple fact tables and shared conformed dimensions (Fact Constellation / Galaxy Schema).**
 
 ### Fact Tables
