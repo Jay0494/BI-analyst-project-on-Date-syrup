@@ -140,7 +140,7 @@ Shared dimensions were utilised across both fact tables to ensure consistent KPI
 ---
 
 ## Dashboard Structure
-
+[Interact_with_dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM3YjY5NzktMjRmZC00YWQyLWEyZjQtN2NlZjM1MmUxNmE3IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 ### Executive Performance Overview
 
 **Purpose:** What happened?
